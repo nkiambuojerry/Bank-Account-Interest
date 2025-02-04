@@ -1,3 +1,3 @@
-# Bank-Account-Interest
-This repo contains a Bank Account Interest calculation software written in Python.
-The user enters the initial amount and interest rate and gets a table showing the calculated interest amounts for a period of 12 months.
+## 🌐 Live Documentation
+View the project documentation here:  
+🔗 [Bank Account Interest Calculator](https://nkiambuojerry.github.io/Bank-Account-Interest/)
